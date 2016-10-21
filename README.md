@@ -1,8 +1,8 @@
-Titris
+Tetris
 ======
 http://codes-sources.commentcamarche.net/source/54913-tetris-like-1-ou-2-joueurs-en-java
 
-Titris-Like 1 or 2 players 
+Tetris-Like 1 or 2 players 
 
 Partie à un joueur 
 Règles du jeu 
